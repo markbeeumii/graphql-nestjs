@@ -7,6 +7,7 @@
         <img src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" width="200" hieght="150" alt="ahh">
         <img src="https://img.stackshare.io/service/7419/20165699.png" width="180" hieght="1500" style="margin: 0px 50px;" alt="ahh">
         <img src="https://static.javatpoint.com/mysql/images/mysql-tutorial.png" width="220" hieght="1000" style="margin: 0px 50px;" alt="ahh">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/GraphQL_Logo.svg/1200px-GraphQL_Logo.svg.png" width="220" hieght="1000" style="margin: 0px 50px;" alt="ahh">
     </div>
   </div>
 </div>
